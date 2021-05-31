@@ -2,7 +2,7 @@ library(rjson)
 library(varhandle)
 library(jsonlite)
 
-setwd("/Users/emilbreustedt/Desktop/R/exp/")
+# setwd("/Users/emilbreustedt/Desktop/R/exp/")
 # inputs:
 # "Ziel.csv" with column names and one empty row
 # directory "input" with all csv of subjects
